@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border: 1px solid grey;
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 2%;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  margin: 3px;
+  font-size: 24pt;
+  border-radius: 10%;
+}
+
+button span {
+  pointer-events: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.grid {
+  margin: 0 auto;
+  width: 200px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(auto, 100px);
+}

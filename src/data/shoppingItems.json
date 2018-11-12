@@ -1,0 +1,18 @@
+[
+  {"item": "Grapes", "emoji": "🍇"},
+  {"item": "Watermelon", "emoji": "🍉"},
+  {"item": "Bananas", "emoji": "🍌"},
+  {"item": "Pineapple", "emoji": "🍍"},
+  {"item": "Aubergine", "emoji": "🍆"},
+  {"item": "Sweetcorn", "emoji": "🌽"},
+  {"item": "Chillis", "emoji": "🌶"},
+  {"item": "Mushrooms", "emoji": "🍄"},
+  {"item": "Bread", "emoji": "🍞"},
+  {"item": "Cheese", "emoji": "🧀"},
+  {"item": "Cookies", "emoji": "🍪"},
+  {"item": "Pizza", "emoji": "🍕"},
+  {"item": "Champagne", "emoji": "🍾"},
+  {"item": "Wine", "emoji": "🍷"},
+  {"item": "Beer", "emoji": "🍺"},
+  {"item": "Flowers", "emoji": "💐"}
+]
